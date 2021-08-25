@@ -1,1 +1,4 @@
-# Landing Page feita através do Bootstrap 💜
+# Landing Page feita através de:
+- Bootstrap
+- HTML
+- Java Script
